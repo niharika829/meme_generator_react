@@ -1,3 +1,21 @@
+# link of working project:-
+https://youtu.be/1muQyyauxds
+
+# the project revolves around the concept of api calling (http response) and how to use value given by the user along with the response from the api. a user can write whatever text they wish to and can create a MEME of their own . framework used:- ReactJs  
+
+# commands used:-
+
+### npm cache clear --force 
+### npm cache verify
+### npm i -g npm
+### npm i -g create-react-app 
+### create-react-app react-app 
+
+# additional dependencies/packages installed
+
+### npm i react-bootstrap
+### npm i bootstrap
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
