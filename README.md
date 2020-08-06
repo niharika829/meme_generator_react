@@ -5,16 +5,16 @@ https://youtu.be/1muQyyauxds
 
 # commands used:-
 
-### npm cache clear --force 
-### npm cache verify
-### npm i -g npm
-### npm i -g create-react-app 
-### create-react-app react-app 
+### `npm cache clear --force` 
+### `npm cache verify`
+### `npm i -g npm`
+### `npm i -g create-react-app` 
+### `create-react-app react-app` 
 
 # additional dependencies/packages installed
 
-### npm i react-bootstrap
-### npm i bootstrap
+### `npm i react-bootstrap`
+### `npm i bootstrap`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
